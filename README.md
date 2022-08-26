@@ -6,7 +6,7 @@ Fully Responsive App will have following features :
 
 1. Cards in which Recipes are categorised under Food type ( Breakfast, Lunch, Dinner, Snack etc) with Recipe name (Cheesy Breadsticks, HamBurger, Apple Cider Donuts etc)
 
-2  Users can check out Preview image to follow given recipes (like to get more information about cheesy breadstiacks etc)
+2  Users can check out Preview image to follow given recipes (like to get more information about cheesy breadsticks etc)
 
 3. Information page of recipe will have Recipe_name, type of recipe , like button, instructions required to make that recipe etc.
  
