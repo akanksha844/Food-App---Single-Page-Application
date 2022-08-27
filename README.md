@@ -22,5 +22,5 @@ Fully Responsive App will have following features :
 
 9.  Profile_page will have Username, Email, Join Date, User's Favorite Recipes and User's Recipes area.
 
-10. Confirmation dialog box to delete recipes from favortites section.
+10. Confirmation dialog box to delete recipes from favorites section.
 
